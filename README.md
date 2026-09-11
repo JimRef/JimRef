@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://react-portfolio-ten.vercel.app/)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://workwithjimmy.vercel.app/)
 
 - 💬 Ask me about **Web Development, Front-End, Back-End and Full-Stack Development, JavaScript, MongoDB, Express.js, React.js, Node.js**
 
