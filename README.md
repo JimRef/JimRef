@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [**Jimmy Refugio**](mailto:jimmyrefugio11@gmail.com)
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/drive/u/0/folders/1kw_sWT7vnMTB45HVJILsaavhW-Z9oK8A)
+- 📄 Know about my experiences [**My Resume**](https://docs.google.com/document/d/1MRyH5kIShsO9ov1ZllnFLclPAct5du4rEx9-z5BLVlU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
